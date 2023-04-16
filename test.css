@@ -540,7 +540,7 @@ hr{
    .navbar4 a{
    padding-right: 0px;
    font-family: 'Courier New', Courier, monospace;
-
+   font-size: 20px;
 
   }
 
@@ -558,8 +558,9 @@ hr{
   }
 
   .quickAccess{
-   padding: 0px 0px 0px 60px;
+   padding: 0px 0px 0px 50px;
    text-align: center;
+   
   
   }
   .navbar2 p{

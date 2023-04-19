@@ -630,8 +630,10 @@ hr{
  
   .butn{
    width: 100%;
-   height: 90%;
+   height: 40px;
    padding: 10px;
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 15px;
   }
 }
 
